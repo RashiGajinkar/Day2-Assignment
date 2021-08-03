@@ -1,0 +1,32 @@
+body{background-color: plum;}
+#a{
+    color:white;
+    font-size: 400%;
+    text-align: center;
+    padding:75px;
+    background-image: url(./image1.jpg) ;
+    background-size: 100%;
+    margin-left: 15px}
+#b{
+    color:rgb(187, 91, 91);
+    font-size: 300%;
+    font-style: italic;
+    text-align: center
+}
+.Centre{
+    color: white;
+    text-align:left;
+    margin-right: 200px;
+    margin-left:300px}
+.Bold{
+    
+    color:rgb(187, 91, 91);
+    font-size:200%;
+    font-style: bold;
+    text-decoration: none}
+.Size{
+    color:white;
+    font-size:150%
+    font-style: oblique;
+    margin-right: 200px}
+  
